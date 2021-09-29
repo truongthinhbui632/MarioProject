@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="100" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="700" columns="25">
-  <image source="gameoffline/mario/tiles.png" width="800" height="896"/>
+  <image source="../textures/tiles.png" width="800" height="896"/>
  </tileset>
  <tileset firstgid="701" name="backgrounds" tilewidth="32" tileheight="32" margin="1" tilecount="5824" columns="112">
-  <image source="gameoffline/mario/backgrounds.png" width="3600" height="1672"/>
+  <image source="../textures/backgrounds.png" width="3600" height="1672"/>
  </tileset>
  <tileset firstgid="6525" name="1-1" tilewidth="32" tileheight="32" tilecount="1958" columns="89">
-  <image source="gameoffline/mario/1-1.png" width="2848" height="720"/>
+  <image source="../textures/1-1.png" width="2848" height="720"/>
  </tileset>
  <layer id="1" name="Tile Layer 1" width="100" height="15">
   <data encoding="csv">
