@@ -88,5 +88,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="map\world1-1.tmx" />
   </ItemGroup>
 </Project>

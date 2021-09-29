@@ -154,6 +154,7 @@
     <Image Include="textures\mario.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="map\world1-1.tmx" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
